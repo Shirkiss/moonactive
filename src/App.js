@@ -1,26 +1,34 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {useEffect, useState} from 'react';
 import './App.css';
+import AddDelayedMessageForm from "./components/add-delayed-message-form";
+import MessagesList from "./components/messages-list";
+import DeleteList from "./components/delete-list";
+
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const [messagesList, setMessagesList] = useState([]);
+
+    useEffect(() => {
+        const fetchData = async () => {
+            const result = await fetch(`/getAllMessages`);
+            const body = await result.json();
+            console.log(body.messages);
+            setMessagesList(body.messages);
+        };
+        fetchData();
+    });
+
+
+    return (
+        <div className="App">
+            {/* eslint-disable-next-line react/jsx-no-target-blank */}
+            <a href="https://github.com/Shirkiss/moonactive" target="_blank">Link to GitHub project</a>
+            <AddDelayedMessageForm/>
+            <MessagesList messages={messagesList} setMessagesList={setMessagesList}/>
+            <DeleteList/>
+        </div>
+    );
 }
 
 export default App;
