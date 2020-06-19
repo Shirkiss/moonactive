@@ -35,7 +35,7 @@ router.get('/getAllMessages', async (req, res) => {
     });
 });
 
-// get time in milliseconds
+// remove all existing messages
 router.get('/removeAll', async (req, res) => {
     client.flushdb(()=> {
         res.send({messages: "Successfully deleted"})
