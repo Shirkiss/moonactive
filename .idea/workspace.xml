@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55ec1da2-28c6-4f4e-95f6-9a3bf293e5c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dUUKQ8eNJBjTKVKKaHzufs7YDg" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Mocha.tests/scheduler.test.js">
+    <configuration name="Simple Math Test" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tests/scheduler.test.js" />
+      <test-names>
+        <test-name value="Simple Math Test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Simple Math Test" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <configuration name="tests/scheduler.test.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/scheduler.test.js</test-file>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.Simple Math Test" />
+      <item itemvalue="Mocha.Simple Math Test" />
+      <item itemvalue="Mocha.tests/scheduler.test.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.tests/scheduler.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55ec1da2-28c6-4f4e-95f6-9a3bf293e5c9" name="Default Changelist" comment="" />
+      <created>1592479100923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592479100923</updated>
+      <workItem from="1592479102349" duration="31242000" />
+      <workItem from="1592541744364" duration="1130000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1592512719815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592512719815</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix naming on index.html">
+      <created>1592512852804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592512852804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="fix naming on index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix naming on index.html" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592504312537">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state x="304" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.945@0.23.1680.945" timestamp="1592504312537" />
+    <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592503574529">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.945@0.23.1680.945" timestamp="1592503574529" />
+    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592542973756">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592542973756" />
+    <state x="100" y="123" width="1480" height="745" key="DiffContextDialog" timestamp="1592505639317">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state x="100" y="123" width="1480" height="745" key="DiffContextDialog/0.23.1680.945@0.23.1680.945" timestamp="1592505639317" />
+    <state width="1638" height="245" key="GridCell.Tab.0.bottom" timestamp="1592504443178">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state width="1638" height="245" key="GridCell.Tab.0.bottom/0.23.1680.945@0.23.1680.945" timestamp="1592504443178" />
+    <state width="1638" height="245" key="GridCell.Tab.0.center" timestamp="1592504443177">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state width="1638" height="245" key="GridCell.Tab.0.center/0.23.1680.945@0.23.1680.945" timestamp="1592504443177" />
+    <state width="1638" height="245" key="GridCell.Tab.0.left" timestamp="1592504443177">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state width="1638" height="245" key="GridCell.Tab.0.left/0.23.1680.945@0.23.1680.945" timestamp="1592504443177" />
+    <state width="1638" height="245" key="GridCell.Tab.0.right" timestamp="1592504443177">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state width="1638" height="245" key="GridCell.Tab.0.right/0.23.1680.945@0.23.1680.945" timestamp="1592504443177" />
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1592515287761">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.945@0.23.1680.945" timestamp="1592515287761" />
+  </component>
+</project>
