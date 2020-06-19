@@ -1,8 +1,6 @@
 import redis from "redis";
 
-const client = redis.createClient(6379, 'ec2-18-188-173-117.us-east-2.compute.amazonaws.com', {
-    no_ready_check: true
-});
+const client = redis.createClient();
 
 
 const scheduleMessage = async (message, time) => {

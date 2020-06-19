@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="55ec1da2-28c6-4f4e-95f6-9a3bf293e5c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +131,7 @@
       <updated>1592479100923</updated>
       <workItem from="1592479102349" duration="31242000" />
       <workItem from="1592541744364" duration="4350000" />
-      <workItem from="1592547634467" duration="1163000" />
+      <workItem from="1592547634467" duration="1901000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1592512719815</created>
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592548205084</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="connecting redis to aws instance">
+      <created>1592549448509</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592549448509</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +194,8 @@
     <MESSAGE value="adding build folder to git repo and returning index.html on port 8000" />
     <MESSAGE value="adding build folder to git repo" />
     <MESSAGE value="adding build to the src repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding build to the src repo" />
+    <MESSAGE value="connecting redis to aws instance" />
+    <option name="LAST_COMMIT_MESSAGE" value="connecting redis to aws instance" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592504312537">
@@ -199,10 +206,10 @@
       <screen x="0" y="23" width="1680" height="945" />
     </state>
     <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.945@0.23.1680.945" timestamp="1592503574529" />
-    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592548204782">
+    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592549448295">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
-    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592548204782" />
+    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592549448295" />
     <state x="100" y="123" width="1480" height="745" key="DiffContextDialog" timestamp="1592505639317">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
