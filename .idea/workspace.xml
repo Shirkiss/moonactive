@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ec1da2-28c6-4f4e-95f6-9a3bf293e5c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/build/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/static/css/main.5f361e03.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/static/css/main.5f361e03.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/static/js/2.ed16b79d.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/static/js/2.ed16b79d.chunk.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/static/js/2.ed16b79d.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/static/js/main.74a122b6.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/static/js/main.74a122b6.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/static/js/runtime-main.3d1ba699.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/build/static/js/runtime-main.3d1ba699.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +148,8 @@
       <option name="presentableId" value="Default" />
       <updated>1592479100923</updated>
       <workItem from="1592479102349" duration="31242000" />
-      <workItem from="1592541744364" duration="1130000" />
+      <workItem from="1592541744364" duration="4350000" />
+      <workItem from="1592547634467" duration="424000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1592512719815</created>
@@ -150,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592512852804</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding build folder to git repo and returning index.html on port 8000">
+      <created>1592542974176</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592542974176</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding build folder to git repo">
+      <created>1592543071477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592543071477</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +188,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="fix naming on index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix naming on index.html" />
+    <MESSAGE value="adding build folder to git repo and returning index.html on port 8000" />
+    <MESSAGE value="adding build folder to git repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding build folder to git repo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592504312537">
@@ -170,10 +201,10 @@
       <screen x="0" y="23" width="1680" height="945" />
     </state>
     <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.945@0.23.1680.945" timestamp="1592503574529" />
-    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592542973756">
+    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592548067454">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
-    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592542973756" />
+    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592548067454" />
     <state x="100" y="123" width="1480" height="745" key="DiffContextDialog" timestamp="1592505639317">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
@@ -194,6 +225,10 @@
       <screen x="0" y="23" width="1680" height="945" />
     </state>
     <state width="1638" height="245" key="GridCell.Tab.0.right/0.23.1680.945@0.23.1680.945" timestamp="1592504443177" />
+    <state x="506" y="252" width="667" height="486" key="find.popup" timestamp="1592545975498">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state x="506" y="252" width="667" height="486" key="find.popup/0.23.1680.945@0.23.1680.945" timestamp="1592545975498" />
     <state x="505" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1592515287761">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
