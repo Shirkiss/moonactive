@@ -5,7 +5,6 @@ import MessagesList from "./components/messages-list";
 import DeleteList from "./components/delete-list";
 
 
-
 function App() {
     const [messagesList, setMessagesList] = useState([]);
 
