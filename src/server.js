@@ -6,12 +6,12 @@ const redisManager = require('./redisManager');
 
 const app = express();
 
-app.use(express.static(path.join(__dirname, './public')));
+app.use(express.static(path.join(__dirname, '/build')));
 app.use(bodyParser.json());
 app.use('/', scheduler);
 
 app.get('*', (req, res) => {
-    res.sendFile(path.join('../public/index.html'));
+    res.sendFile(path.join(__dirname + '/build/index.html'));
 });
 
 app.listen(8000, () => {
