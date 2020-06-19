@@ -28,7 +28,7 @@ const AddDelayedMessageForm = () => {
                               onChange={(event) => setMessageTest(event.target.value)}/>
                 </div>
                 <div className="form-group">
-                    <label>Delay</label>
+                    <label>Delay in second for displaying the message:</label>
                     <input className="form-control" value={delay} onChange={(event) => setDelay(event.target.value)}/>
                 </div>
                 <button className="btn btn-primary" onClick={() => addDelayedMessage()}>Add Message</button>

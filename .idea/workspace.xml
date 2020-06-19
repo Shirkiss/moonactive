@@ -43,6 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,6 +53,9 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/client" />
@@ -182,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592549448509</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changing delay title">
+      <created>1592552018732</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592552018732</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +206,8 @@
     <MESSAGE value="adding build folder to git repo" />
     <MESSAGE value="adding build to the src repo" />
     <MESSAGE value="connecting redis to aws instance" />
-    <option name="LAST_COMMIT_MESSAGE" value="connecting redis to aws instance" />
+    <MESSAGE value="changing delay title" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing delay title" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592504312537">
@@ -206,10 +218,10 @@
       <screen x="0" y="23" width="1680" height="945" />
     </state>
     <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.945@0.23.1680.945" timestamp="1592503574529" />
-    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592549448295">
+    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592552018518">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
-    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592549448295" />
+    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592552018518" />
     <state x="100" y="123" width="1480" height="745" key="DiffContextDialog" timestamp="1592505639317">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
