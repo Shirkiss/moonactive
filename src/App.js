@@ -12,7 +12,6 @@ function App() {
         const fetchData = async () => {
             const result = await fetch(`/getAllMessages`);
             const body = await result.json();
-            console.log(body.messages);
             setMessagesList(body.messages);
         };
         fetchData();

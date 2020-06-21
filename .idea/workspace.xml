@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="55ec1da2-28c6-4f4e-95f6-9a3bf293e5c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/scheduler.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/scheduler.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592555466037</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fixing comment">
+      <created>1592555581079</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592555581079</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +244,8 @@
     <MESSAGE value="changing delay title" />
     <MESSAGE value="removing build" />
     <MESSAGE value="removing redundant files" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing redundant files" />
+    <MESSAGE value="fixing comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing comment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592504312537">
@@ -249,10 +256,10 @@
       <screen x="0" y="23" width="1680" height="945" />
     </state>
     <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.945@0.23.1680.945" timestamp="1592555418342" />
-    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592555465702">
+    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592555580849">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
-    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592555465702" />
+    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592555580849" />
     <state x="100" y="123" width="1480" height="745" key="DiffContextDialog" timestamp="1592505639317">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
