@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ec1da2-28c6-4f4e-95f6-9a3bf293e5c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/build/static/js/main.b1055a21.chunk.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/precache-manifest.25fa464e5843b77f30f1278b78a8f4dc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/precache-manifest.888756c2fdc2a8fa71984ed2847c5283.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/static/js/main.0367de39.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/static/js/main.b1055a21.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/static/js/main.0367de39.chunk.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +61,12 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager" selected="Mocha.tests/scheduler.test.js">
@@ -136,6 +144,7 @@
       <workItem from="1592479102349" duration="31242000" />
       <workItem from="1592541744364" duration="4350000" />
       <workItem from="1592547634467" duration="1901000" />
+      <workItem from="1592817670995" duration="521000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1592512719815</created>
@@ -228,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592555581079</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="removing redundant console log">
+      <created>1592709837393</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1592709837394</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +261,8 @@
     <MESSAGE value="removing build" />
     <MESSAGE value="removing redundant files" />
     <MESSAGE value="fixing comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing comment" />
+    <MESSAGE value="removing redundant console log" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing redundant console log" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592504312537">
@@ -256,10 +273,10 @@
       <screen x="0" y="23" width="1680" height="945" />
     </state>
     <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.945@0.23.1680.945" timestamp="1592555418342" />
-    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592555580849">
+    <state x="326" y="98" key="CommitChangelistDialog2" timestamp="1592709837224">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
-    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592555580849" />
+    <state x="326" y="98" key="CommitChangelistDialog2/0.23.1680.945@0.23.1680.945" timestamp="1592709837224" />
     <state x="100" y="123" width="1480" height="745" key="DiffContextDialog" timestamp="1592505639317">
       <screen x="0" y="23" width="1680" height="945" />
     </state>

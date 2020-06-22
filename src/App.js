@@ -14,7 +14,7 @@ function App() {
             const body = await result.json();
             setMessagesList(body.messages);
         };
-        fetchData();
+        setTimeout(() => {  fetchData(); }, 1000);
     });
 
 
@@ -23,7 +23,7 @@ function App() {
             {/* eslint-disable-next-line react/jsx-no-target-blank */}
             <a href="https://github.com/Shirkiss/moonactive" target="_blank">Link to GitHub project</a>
             <AddDelayedMessageForm/>
-            <MessagesList messages={messagesList} setMessagesList={setMessagesList}/>
+            <MessagesList messages={messagesList}/>
             <DeleteList/>
         </div>
     );
